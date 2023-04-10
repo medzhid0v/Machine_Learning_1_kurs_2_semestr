@@ -1,1 +1,3 @@
-# Machine_Learning_1_kurs_2_semestr
+pip install -r requairments.txt
+
+Запуск jupyter - jupyter-lab в терминале
